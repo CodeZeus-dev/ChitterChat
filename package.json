@@ -1,0 +1,15 @@
+{
+  "name": "chitterchat",
+  "version": "1.0.0",
+  "description": "ChitterChat is a simple socket.io app that enables users to chat with each other in real-time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Constantine Akritides",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.1.2"
+  }
+}
